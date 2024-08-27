@@ -6,4 +6,4 @@ This is my first git project
 ```bash
     git clone  git@github.com:arslanXohoa/demo.git
 ```
-Author: Arslan Saeed
+Author: (Arslan Saeed)
